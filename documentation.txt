@@ -1,0 +1,275 @@
+PERSONAL PORTFOLIO WEBSITE
+PROJECT DOCUMENTATION
+
+==================================================
+1. STUDENT DETAILS
+==================================================
+
+Name: Rashi Sharma
+Roll Number: 590021816
+Batch: 4
+Course: B.Tech Computer Science Engineering
+College: UPES Dehradun
+Date: 11 September 2026
+
+==================================================
+2. PROJECT TITLE
+==================================================
+
+Build & Host Your Personal Portfolio Website
+
+The project is a responsive personal portfolio website
+developed using HTML, CSS and JavaScript and hosted using
+GitHub Pages.
+
+==================================================
+3. STARTING POINT / TEMPLATE USED
+==================================================
+
+The website was created from scratch.
+
+No pre-existing website template was copied or used.
+
+AI assistance was used to help with the website structure,
+UI design, CSS styling and JavaScript functionality.
+
+The final website was edited and assembled manually in
+Visual Studio Code.
+
+==================================================
+4. AI TOOLS USED
+==================================================
+
+AI Tool:
+ChatGPT
+
+Purpose:
+- Understanding the assignment requirements
+- Planning the website structure
+- Generating and explaining HTML code
+- Generating and explaining CSS code
+- Generating JavaScript functionality
+- Helping with responsive design
+- Helping troubleshoot the local website
+- Guiding the GitHub Pages deployment process
+- Helping prepare this documentation
+
+GitHub was used for version storage and hosting through
+GitHub Pages.
+
+==================================================
+5. EXACT PROMPTS USED
+==================================================
+
+Prompt 1:
+
+"we need to build this website from scratch i dont know anything but we need to do this assignment spoon feed me everything"
+
+
+Prompt 2:
+
+"we will move one by one baby steps just tell me everything from the very start"
+
+
+Prompt 3:
+
+"dont tell me bit by bit just give me the entire codes for the three files"
+
+
+Prompt 4:
+
+"now you have everything can you make the website with codex? i will share a picture of mine if you want"
+
+
+Prompt 5:
+
+"we are out of codex limit so we need to do the things manually"
+
+
+Prompt 6:
+
+"now whats next?"
+
+
+Prompt 7:
+
+"lets do it"
+
+These prompts were used to obtain guidance, code examples,
+website structure and assistance during the development
+process.
+
+==================================================
+6. TECHNOLOGIES USED
+==================================================
+
+HTML
+- Used to create the structure and content of the website.
+
+CSS
+- Used for styling, layout, colors, spacing, buttons,
+  cards and responsive design.
+
+JavaScript
+- Used for the mobile navigation menu and contact form
+  interaction.
+
+GitHub
+- Used to store the website source code.
+
+GitHub Pages
+- Used to host the website publicly.
+
+Visual Studio Code
+- Used as the code editor.
+
+==================================================
+7. WEBSITE SECTIONS
+==================================================
+
+The portfolio contains the following sections:
+
+1. Header / Navigation
+2. Hero / Introduction
+3. About Me
+4. Skills
+5. Projects
+6. Contact
+7. Footer
+8. Download Documentation button
+
+==================================================
+8. DEVELOPMENT METHOD
+==================================================
+
+Step 1:
+The assignment requirements were studied and the required
+portfolio sections were identified.
+
+Step 2:
+A project folder named "rashi-portfolio" was created.
+
+Step 3:
+The main HTML file, index.html, was created.
+
+Step 4:
+The CSS file, style.css, was created and connected to
+index.html.
+
+Step 5:
+The JavaScript file, script.js, was created and connected
+to index.html.
+
+Step 6:
+The basic portfolio structure was created using HTML.
+
+Step 7:
+CSS was used to create the visual design, layout,
+buttons, project cards, navigation and other components.
+
+Step 8:
+Responsive CSS media queries were added so that the
+website works on desktop, tablet and mobile screens.
+
+Step 9:
+JavaScript was added for the mobile navigation menu and
+contact form interaction.
+
+Step 10:
+A personal profile image was added to the website as
+"profile.jpg".
+
+Step 11:
+Personal information was added, including name, college,
+course, roll number, batch, email, GitHub and LinkedIn.
+
+Step 12:
+The website was tested locally using Live Server in
+Visual Studio Code.
+
+Step 13:
+A public GitHub repository named "rashi-portfolio" was
+created.
+
+Step 14:
+The website files were uploaded to the GitHub repository.
+
+Step 15:
+GitHub Pages was enabled using the main branch and the
+root directory.
+
+Step 16:
+The website was deployed and tested using the public
+GitHub Pages URL.
+
+Step 17:
+This documentation file was created and added to the
+portfolio so that it can be downloaded using the
+"Download Documentation" button.
+
+==================================================
+9. PERSONAL INFORMATION
+==================================================
+
+Name:
+Rashi Sharma
+
+Roll Number:
+590021816
+
+Batch:
+4
+
+Course:
+B.Tech Computer Science Engineering
+
+College:
+UPES Dehradun
+
+Email:
+rashi.sharma.2604@gmail.com
+
+GitHub:
+https://github.com/RashiSharma26
+
+LinkedIn:
+https://www.linkedin.com/in/rashi-sharma-504367370/
+
+==================================================
+10. LIVE WEBSITE
+==================================================
+
+Live Website:
+https://rashisharma26.github.io/rashi-portfolio/
+
+GitHub Repository:
+https://github.com/RashiSharma26/rashi-portfolio
+
+==================================================
+11. PROJECT STATUS
+==================================================
+
+The personal portfolio website has been developed and
+successfully hosted using GitHub Pages.
+
+The project cards have been included in the portfolio
+structure. The actual project repositories/links will be
+connected after the corresponding projects are completed
+and uploaded to GitHub.
+
+==================================================
+12. CONCLUSION
+==================================================
+
+This project helped me understand the basic workflow of
+creating a website using HTML, CSS and JavaScript, testing
+it locally, uploading it to GitHub and deploying it using
+GitHub Pages.
+
+AI was used as a learning and development assistant, while
+the website was assembled and tested manually in Visual
+Studio Code.
+
+==================================================
+END OF DOCUMENTATION
+==================================================
